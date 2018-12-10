@@ -104,6 +104,8 @@ make pycaffe  # compile caffe for python
 ## 参考内容
 
 [1] [ubuntu16安装caffe](https://blog.csdn.net/bleedingfight/article/details/80238348)
+
 [2] [OpenCV Tutorial: Load and Display an Image (codeblocks, fedora20)](https://stackoverflow.com/questions/24439548/opencv-tutorial-load-and-display-an-image-codeblocks-fedora20)
+
 [3] [opencv ImreadModes](https://docs.opencv.org/master/d4/da8/group__imgcodecs.html#ga61d9b0126a3e57d9277ac48327799c80)
 
